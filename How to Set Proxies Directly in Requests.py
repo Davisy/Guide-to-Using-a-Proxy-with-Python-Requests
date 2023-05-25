@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
   
 # Define proxies to use.  
 proxies = {  
-    'http': ='http://proxyprovider.com:2000',  
+    'http': 'http://proxyprovider.com:2000',  
     'https': 'http://proxyprovider.com:2000',  
 }  
   
